@@ -1,8 +1,8 @@
 //Insira valor de A
-let a = 18;
+let a = 10;
 
 //Insira valor de B
-let b = 4;
+let b = 2;
 //Exibir resultado 
 let diferença = a - b;
 
