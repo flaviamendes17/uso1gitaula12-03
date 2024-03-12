@@ -1,8 +1,8 @@
 //Insira valor de A
-let a = 7;
+let a = 209;
 
 //Insira valor de B
-let b = 4;
+let b = 140;
 //Exibir resultado 
 let soma = a + b;
 
