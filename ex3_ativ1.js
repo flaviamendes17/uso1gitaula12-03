@@ -2,7 +2,7 @@
 let a = 18;
 
 //Insira valor de B
-let b = 2;
+let b = 4;
 //Exibir resultado 
 let diferença = a - b;
 
