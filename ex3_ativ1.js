@@ -1,9 +1,9 @@
 //Insira valor de A
-let a = 209;
+let a = 578;
 
 //Insira valor de B
-let b = 140;
+let b = 789;
 //Exibir resultado 
-let diferença = a + b;
+let soma = a + b;
 
-console.log(diferença);
+console.log(soma);
