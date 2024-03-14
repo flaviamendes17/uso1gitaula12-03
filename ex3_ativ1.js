@@ -4,6 +4,6 @@ let a = 1703;
 //Insira valor de B
 let b = 1703;
 //Exibir resultado 
-let diferença = a + b;
+let soma = a + b;
 
-console.log(diferença);
+console.log(soma);
